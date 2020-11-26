@@ -1,9 +1,0 @@
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\bin\Debug\netstandard2.1\CarBattery.Services.Messaging.deps.json
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\bin\Debug\netstandard2.1\CarBattery.Services.Messaging.dll
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\bin\Debug\netstandard2.1\CarBattery.Services.Messaging.pdb
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\obj\Debug\netstandard2.1\CarBattery.Services.Messaging.csprojAssemblyReference.cache
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\obj\Debug\netstandard2.1\CarBattery.Services.Messaging.AssemblyInfoInputs.cache
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\obj\Debug\netstandard2.1\CarBattery.Services.Messaging.AssemblyInfo.cs
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\obj\Debug\netstandard2.1\CarBattery.Services.Messaging.csproj.CoreCompileInputs.cache
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\obj\Debug\netstandard2.1\CarBattery.Services.Messaging.dll
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Messaging\obj\Debug\netstandard2.1\CarBattery.Services.Messaging.pdb

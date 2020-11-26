@@ -1,9 +1,0 @@
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\bin\Debug\netstandard2.1\CarBattery.Services.Mapping.deps.json
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\bin\Debug\netstandard2.1\CarBattery.Services.Mapping.dll
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\bin\Debug\netstandard2.1\CarBattery.Services.Mapping.pdb
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\obj\Debug\netstandard2.1\CarBattery.Services.Mapping.csprojAssemblyReference.cache
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\obj\Debug\netstandard2.1\CarBattery.Services.Mapping.AssemblyInfoInputs.cache
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\obj\Debug\netstandard2.1\CarBattery.Services.Mapping.AssemblyInfo.cs
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\obj\Debug\netstandard2.1\CarBattery.Services.Mapping.csproj.CoreCompileInputs.cache
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\obj\Debug\netstandard2.1\CarBattery.Services.Mapping.dll
-D:\Desktop\TestProjectAspNet\Services\CarBattery.Services.Mapping\obj\Debug\netstandard2.1\CarBattery.Services.Mapping.pdb

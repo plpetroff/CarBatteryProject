@@ -1,9 +1,0 @@
-D:\Desktop\TestProjectAspNet\CarBattery.Common\bin\Debug\netstandard2.1\CarBattery.Common.deps.json
-D:\Desktop\TestProjectAspNet\CarBattery.Common\bin\Debug\netstandard2.1\CarBattery.Common.dll
-D:\Desktop\TestProjectAspNet\CarBattery.Common\bin\Debug\netstandard2.1\CarBattery.Common.pdb
-D:\Desktop\TestProjectAspNet\CarBattery.Common\obj\Debug\netstandard2.1\CarBattery.Common.csprojAssemblyReference.cache
-D:\Desktop\TestProjectAspNet\CarBattery.Common\obj\Debug\netstandard2.1\CarBattery.Common.AssemblyInfoInputs.cache
-D:\Desktop\TestProjectAspNet\CarBattery.Common\obj\Debug\netstandard2.1\CarBattery.Common.AssemblyInfo.cs
-D:\Desktop\TestProjectAspNet\CarBattery.Common\obj\Debug\netstandard2.1\CarBattery.Common.csproj.CoreCompileInputs.cache
-D:\Desktop\TestProjectAspNet\CarBattery.Common\obj\Debug\netstandard2.1\CarBattery.Common.dll
-D:\Desktop\TestProjectAspNet\CarBattery.Common\obj\Debug\netstandard2.1\CarBattery.Common.pdb
