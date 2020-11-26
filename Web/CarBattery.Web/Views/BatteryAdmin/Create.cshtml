@@ -1,0 +1,43 @@
+﻿@model CarBattery.Web.ViewModels.Battery.CreateBatteryInputModel
+@{ 
+    this.ViewData["Title"] = "Add new battery !";
+    var categoryItems = this.Model.CategoriesItems.Select(x => new SelectListItem(x.Value, x.Key));
+}
+
+
+<form method="post" class="col-md-6 offset-md-1">
+    <h1>@this.ViewData["Title"]</h1>
+    <div asp-validation-summary="All"></div>
+    <div class=" form-group">
+        <label asp-for="Brand"></label>
+        <input asp-for="Brand" class="form-control" />
+        <span asp-validation-for="Brand" class="text-danger"></span>
+    </div>
+    <div class=" form-group">
+        <label asp-for="Amperage"></label>
+        <input asp-for="Amperage" class="form-control" />
+        <span asp-validation-for="Amperage" class="text-danger"></span>
+    </div>
+    <div class=" form-group">
+        <label asp-for="Capacity"></label>
+        <input asp-for="Capacity" class="form-control" />
+        <span asp-validation-for="Capacity" class="text-danger"></span>
+    </div>
+    <div class=" form-group">
+        <label asp-for="Category"></label>
+        <select asp-for="Category" class="form-control" asp-items="categoryItems"></select>
+        <span asp-validation-for="Category" class="text-danger"></span>
+    </div>
+    <div class=" form-group">
+        <label asp-for="Technology"></label>
+        <input asp-for="Technology" class="form-control" />
+        <span asp-validation-for="Technology" class="text-danger"></span>
+    </div>
+    <div class=" form-group">
+        <label asp-for="BatteryDescription"></label>
+        <textarea asp-for="BatteryDescription" class="form-control" rows="5"></textarea>
+        <span asp-validation-for="BatteryDescription" class="text-danger"></span>
+    </div>
+    <input type="submit" class="btn btn-primary" />
+
+</form>

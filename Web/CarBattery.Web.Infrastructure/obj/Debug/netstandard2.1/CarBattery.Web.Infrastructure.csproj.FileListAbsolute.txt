@@ -1,0 +1,9 @@
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\bin\Debug\netstandard2.1\CarBattery.Web.Infrastructure.deps.json
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\bin\Debug\netstandard2.1\CarBattery.Web.Infrastructure.dll
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\bin\Debug\netstandard2.1\CarBattery.Web.Infrastructure.pdb
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\obj\Debug\netstandard2.1\CarBattery.Web.Infrastructure.csprojAssemblyReference.cache
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\obj\Debug\netstandard2.1\CarBattery.Web.Infrastructure.AssemblyInfoInputs.cache
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\obj\Debug\netstandard2.1\CarBattery.Web.Infrastructure.AssemblyInfo.cs
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\obj\Debug\netstandard2.1\CarBattery.Web.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\obj\Debug\netstandard2.1\CarBattery.Web.Infrastructure.dll
+D:\Desktop\TestProjectAspNet\Web\CarBattery.Web.Infrastructure\obj\Debug\netstandard2.1\CarBattery.Web.Infrastructure.pdb

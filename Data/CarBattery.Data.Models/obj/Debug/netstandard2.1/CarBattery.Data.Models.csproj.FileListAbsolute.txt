@@ -1,0 +1,12 @@
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\bin\Debug\netstandard2.1\CarBattery.Data.Models.deps.json
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\bin\Debug\netstandard2.1\CarBattery.Data.Models.dll
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\bin\Debug\netstandard2.1\CarBattery.Data.Models.pdb
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\bin\Debug\netstandard2.1\CarBattery.Data.Common.dll
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\bin\Debug\netstandard2.1\CarBattery.Data.Common.pdb
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\obj\Debug\netstandard2.1\CarBattery.Data.Models.csprojAssemblyReference.cache
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\obj\Debug\netstandard2.1\CarBattery.Data.Models.AssemblyInfoInputs.cache
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\obj\Debug\netstandard2.1\CarBattery.Data.Models.AssemblyInfo.cs
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\obj\Debug\netstandard2.1\CarBattery.Data.Models.csproj.CoreCompileInputs.cache
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\obj\Debug\netstandard2.1\CarBattery.Data.Models.csproj.CopyComplete
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\obj\Debug\netstandard2.1\CarBattery.Data.Models.dll
+D:\Desktop\TestProjectAspNet\Data\CarBattery.Data.Models\obj\Debug\netstandard2.1\CarBattery.Data.Models.pdb

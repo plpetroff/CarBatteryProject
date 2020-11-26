@@ -1,0 +1,9 @@
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\bin\Debug\netcoreapp3.1\CarBattery.Services.deps.json
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\bin\Debug\netcoreapp3.1\CarBattery.Services.dll
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\bin\Debug\netcoreapp3.1\CarBattery.Services.pdb
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\obj\Debug\netcoreapp3.1\CarBattery.Services.csprojAssemblyReference.cache
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\obj\Debug\netcoreapp3.1\CarBattery.Services.AssemblyInfoInputs.cache
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\obj\Debug\netcoreapp3.1\CarBattery.Services.AssemblyInfo.cs
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\obj\Debug\netcoreapp3.1\CarBattery.Services.csproj.CoreCompileInputs.cache
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\obj\Debug\netcoreapp3.1\CarBattery.Services.dll
+D:\Desktop\TestProjectAspNet\Services\CarBattery.Services\obj\Debug\netcoreapp3.1\CarBattery.Services.pdb
