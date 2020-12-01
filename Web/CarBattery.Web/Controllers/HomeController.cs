@@ -2,6 +2,7 @@
 {
     using System.Diagnostics;
     using System.Linq;
+
     using CarBattery.Data;
     using CarBattery.Data.Common.Repositories;
     using CarBattery.Data.Models;
@@ -11,9 +12,9 @@
     using Microsoft.AspNetCore.Mvc;
 
     // 2 Repositories
-    //3 Services
+    // 3 Services
     public class HomeController : BaseController
-    {        
+    {
         private readonly IGetCountsService countsService;
 
         public HomeController(IGetCountsService countsService)

@@ -8,18 +8,18 @@
     using CarBattery.Data.Common.Repositories;
     using CarBattery.Data.Models;
 
-    public class CategoriesService : ICategoriesService
+    public class BrandsService : IBrandsService
     {
-        private readonly IDeletableEntityRepository<Category> categoriesRepository;
+        private readonly IDeletableEntityRepository<Brand> brandsRepository;
 
-        public CategoriesService(IDeletableEntityRepository<Category> categoriesRepository)
+        public BrandsService(IDeletableEntityRepository<Brand> brandsRepository)
         {
-            this.categoriesRepository = categoriesRepository;
+            this.brandsRepository = brandsRepository;
         }
 
         public IEnumerable<KeyValuePair<string, string>> GetAllAsKeyValuepairs()
         {
-            return this.categoriesRepository.AllAsNoTracking().Select(x => new
+            return this.brandsRepository.AllAsNoTracking().Select(x => new
             {
                 x.Id,
                 x.Name,

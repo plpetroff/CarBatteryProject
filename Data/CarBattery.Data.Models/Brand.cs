@@ -21,6 +21,7 @@
         public string Name { get; set; }
 
         public virtual ICollection<Battery> Batteries { get; set; }
+
         public virtual ICollection<BrandAmperage> Amperages { get; set; }
 
         public virtual ICollection<BrandCapacity> Capacities { get; set; }
