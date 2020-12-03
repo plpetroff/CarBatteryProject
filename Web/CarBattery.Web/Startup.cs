@@ -69,6 +69,8 @@
             services.AddTransient<IBrandsService, BrandsService>();
             services.AddTransient<IBatteryService, BatteryService>();
             services.AddTransient<ICapacityService, CapacityService>();
+            services.AddTransient<IAmperageService, AmperageService>();
+            services.AddTransient<ITechnologyService, TechnologyService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

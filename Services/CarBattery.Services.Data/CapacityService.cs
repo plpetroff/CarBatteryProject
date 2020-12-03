@@ -23,7 +23,7 @@
             {
                 x.Id,
                 x.BatteryAh,
-            }).ToList().Select(x => new KeyValuePair<string, string>(x.Id.ToString(), x.BatteryAh.ToString()));
+            }).OrderBy(x => x.BatteryAh).ToList().Select(x => new KeyValuePair<string, string>(x.Id.ToString(), x.BatteryAh.ToString()));
         }
     }
 }

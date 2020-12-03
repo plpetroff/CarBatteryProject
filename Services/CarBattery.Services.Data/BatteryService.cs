@@ -22,8 +22,8 @@
         {
             var battery = new Battery();
             battery.BrandId = input.BrandId;
-            battery.AmperageId = input.AmperageId;
             battery.CapacityId = input.CapacityId;
+            battery.AmperageId = input.AmperageId;
             battery.CategoryId = input.CategoryId;
             battery.TechnologyId = input.TechnologyId;
             battery.BatteryDescription = input.BatteryDescription;

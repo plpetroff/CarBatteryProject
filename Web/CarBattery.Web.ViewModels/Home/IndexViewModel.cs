@@ -15,6 +15,5 @@
         public int ImagesCount { get; set; }
 
         public int TechnologyCount { get; set; }
-
     }
 }

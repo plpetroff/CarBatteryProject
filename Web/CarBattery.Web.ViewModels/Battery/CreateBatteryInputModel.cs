@@ -32,7 +32,13 @@
         public virtual ICollection<Image> Images { get; set; }
 
         public IEnumerable<KeyValuePair<string, string>> CategoriesItems { get; set; }
+
         public IEnumerable<KeyValuePair<string, string>> BrandsItems { get; set; }
+
         public IEnumerable<KeyValuePair<string, string>> CapacityItems { get; set; }
+
+        public IEnumerable<KeyValuePair<string, string>> AmperageItems { get; set; }
+
+        public IEnumerable<KeyValuePair<string, string>> TechnologyItems { get; set; }
     }
 }

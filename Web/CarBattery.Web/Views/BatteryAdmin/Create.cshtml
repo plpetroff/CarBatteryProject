@@ -4,6 +4,8 @@
     var categoryItems = this.Model.CategoriesItems.Select(x => new SelectListItem(x.Value, x.Key));
     var brandItems = this.Model.BrandsItems.Select(x => new SelectListItem(x.Value, x.Key));
     var capacityItems = this.Model.CapacityItems.Select(x => new SelectListItem(x.Value, x.Key));
+    var amperageItems = this.Model.AmperageItems.Select(x => new SelectListItem(x.Value, x.Key));
+    var technologyItems = this.Model.TechnologyItems.Select(x => new SelectListItem(x.Value, x.Key));
 }
 
 
@@ -22,7 +24,7 @@
     </div>  
     <div class=" form-group">
         <label asp-for="AmperageId"></label>
-        <input asp-for="AmperageId" class="form-control" />
+        <select asp-for="AmperageId" class="form-control" asp-items="amperageItems"></select>
         <span asp-validation-for="AmperageId" class="text-danger"></span>
     </div>
     <div class=" form-group">
@@ -32,7 +34,7 @@
     </div>
     <div class=" form-group">
         <label asp-for="TechnologyId"></label>
-        <input asp-for="TechnologyId" class="form-control" />
+        <select asp-for="TechnologyId" class="form-control" asp-items="technologyItems"></select>
         <span asp-validation-for="TechnologyId" class="text-danger"></span>
     </div>
     <div class=" form-group">

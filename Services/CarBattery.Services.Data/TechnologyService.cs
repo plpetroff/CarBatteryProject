@@ -8,21 +8,20 @@
     using CarBattery.Data.Common.Repositories;
     using CarBattery.Data.Models;
 
-    public class BrandsService : IBrandsService
+    public class TechnologyService : ITechnologyService
     {
-        private readonly IDeletableEntityRepository<Brand> brandsRepository;
+        private readonly IDeletableEntityRepository<Technology> technologyRepository;
 
-        public BrandsService(IDeletableEntityRepository<Brand> brandsRepository)
+        public TechnologyService(IDeletableEntityRepository<Technology> technologyRepository)
         {
-            this.brandsRepository = brandsRepository;
+            this.technologyRepository = technologyRepository;
         }
 
         public IEnumerable<KeyValuePair<string, string>> GetAllAsKeyValuepairs()
         {
-            return this.brandsRepository.AllAsNoTracking().Select(x => new
+            return this.technologyRepository.All().Select(x => new
             {
-                x.Id,
-                x.Name,
+                x.Id, x.Name,
             }).ToList().Select(x => new KeyValuePair<string, string>(x.Id.ToString(), x.Name)).OrderBy(x => x.Value);
         }
     }
