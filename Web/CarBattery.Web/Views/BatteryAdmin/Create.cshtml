@@ -3,6 +3,7 @@
     this.ViewData["Title"] = "Add new battery and again new battery !";
     var categoryItems = this.Model.CategoriesItems.Select(x => new SelectListItem(x.Value, x.Key));
     var brandItems = this.Model.BrandsItems.Select(x => new SelectListItem(x.Value, x.Key));
+    var capacityItems = this.Model.CapacityItems.Select(x => new SelectListItem(x.Value, x.Key));
 }
 
 
@@ -15,14 +16,14 @@
         <span asp-validation-for="BrandId" class="text-danger"></span>
     </div>
     <div class=" form-group">
+        <label asp-for="CapacityId"></label>
+        <select asp-for="CapacityId" class="form-control" asp-items="capacityItems"></select>
+        <span asp-validation-for="CapacityId" class="text-danger"></span>
+    </div>  
+    <div class=" form-group">
         <label asp-for="AmperageId"></label>
         <input asp-for="AmperageId" class="form-control" />
         <span asp-validation-for="AmperageId" class="text-danger"></span>
-    </div>
-    <div class=" form-group">
-        <label asp-for="CapacityId"></label>
-        <input asp-for="CapacityId" class="form-control" />
-        <span asp-validation-for="CapacityId" class="text-danger"></span>
     </div>
     <div class=" form-group">
         <label asp-for="CategoryId"></label>

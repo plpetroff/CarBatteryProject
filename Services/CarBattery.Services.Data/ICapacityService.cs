@@ -4,8 +4,8 @@
     using System.Collections.Generic;
     using System.Text;
 
-    public interface ICategoriesService
+    public interface ICapacityService
     {
-        IEnumerable<KeyValuePair<string, string>> GetAllAsKeyValuePairs();
+        IEnumerable<KeyValuePair<string, string>> GetAllAsKeyValuepairs();
     }
 }

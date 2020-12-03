@@ -8,19 +8,19 @@
 
     using CarBattery.Data.Models;
 
-    public class CategoriesSeeder : ISeeder
+    public class TechnologySeeder : ISeeder
     {
         public async Task SeedAsync(ApplicationDbContext dbContext, IServiceProvider serviceProvider)
         {
-            if (dbContext.Categories.Any())
+            if (dbContext.Technologies.Any())
             {
                 return;
             }
 
-            await dbContext.Categories.AddAsync(new Category { Name = "Стартерни" });
-            await dbContext.Categories.AddAsync(new Category { Name = "Мото" });
-            await dbContext.Categories.AddAsync(new Category { Name = "Камиони" });
-            await dbContext.Categories.AddAsync(new Category { Name = "Тягови" });
+            await dbContext.Technologies.AddAsync(new Technology { Name = "Calcium" });
+            await dbContext.Technologies.AddAsync(new Technology { Name = "AGM" });
+            await dbContext.Technologies.AddAsync(new Technology { Name = "EFB" });
+            await dbContext.Technologies.AddAsync(new Technology { Name = "Gel" });
 
             await dbContext.SaveChangesAsync();
         }

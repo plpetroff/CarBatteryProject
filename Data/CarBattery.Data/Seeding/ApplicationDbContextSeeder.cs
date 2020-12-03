@@ -29,6 +29,9 @@
                               new SettingsSeeder(),
                               new CategoriesSeeder(),
                               new BrandsSeeder(),
+                              new AmperagesSeeder(),
+                              new CapacitySeeder(),
+                              new TechnologySeeder(),
                           };
 
             foreach (var seeder in seeders)

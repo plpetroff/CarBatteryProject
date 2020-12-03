@@ -24,7 +24,5 @@
         public virtual ICollection<Battery> Batteries { get; set; }
 
         public virtual ICollection<BrandAmperage> Brands { get; set; }
-
-
     }
 }

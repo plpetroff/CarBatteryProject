@@ -36,8 +36,5 @@
         public string BatteryDescription { get; set; }
 
         public virtual ICollection<Image> Images { get; set; }
-
-
-
     }
 }

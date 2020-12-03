@@ -14,12 +14,12 @@
         public int BrandId { get; set; }
 
         [Required]
-        [Display(Name = "This display Amperage")]
-        public int AmperageId { get; set; }
-
-        [Required]
         [Display(Name = "This display Capacity")]
         public int CapacityId { get; set; }
+
+        [Required]
+        [Display(Name = "This display Amperage")]
+        public int AmperageId { get; set; }
 
         [Required]
         public int CategoryId { get; set; }
@@ -33,5 +33,6 @@
 
         public IEnumerable<KeyValuePair<string, string>> CategoriesItems { get; set; }
         public IEnumerable<KeyValuePair<string, string>> BrandsItems { get; set; }
+        public IEnumerable<KeyValuePair<string, string>> CapacityItems { get; set; }
     }
 }
